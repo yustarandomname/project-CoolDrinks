@@ -18,6 +18,8 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
+    "@rollup/plugin-json": "^4.1.0",
+    "@supabase/supabase-js": "^1.11.10",
     "projectc-components": "^1.0.12",
     "sirv-cli": "^1.0.0"
   }
